@@ -12,3 +12,4 @@
 ## Lectures
 * [2017-10-20 IJK Digital Business Models - The Advertising Industry.pdf](https://github.com/npohle/radio/blob/master/2017-10-20%20IJK%20Digital%20Business%20Models%20-%20The%20Advertising%20Industry.pdf) presented at [HMTM IJK Hannover](https://www.ijk.hmtm-hannover.de/en/home/)
 * [2017-11-17 IJK Digital Business Models - Data and Technology](https://github.com/npohle/radio/blob/master/2017-11-17%20IJK%20Digital%20Business%20Models%20-%20Data%20and%20Technology.pdf) presented at [HMTM IJK Hannover](https://www.ijk.hmtm-hannover.de/en/home/)
+* [2018-04-16 HsH Marketing Tag - Programmatic Advertising.pdf](https://github.com/npohle/radio/blob/master/2018-04-16%20HsH%20Marketing%20Tag%20-%20Programmatic%20Advertising.pdf) presented at [HsH Hannover](https://f4.hs-hannover.de/fakultaet-iv/index.html)
